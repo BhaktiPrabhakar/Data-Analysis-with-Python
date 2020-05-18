@@ -1,4 +1,4 @@
-# IMDBmoviesProject
+# Python
 
 __What is Python ?__<br>
 Python is an interpreted, high-level, general-purpose programming language.
