@@ -35,7 +35,7 @@ Various steps included in the project are:
 
 # EDA
 
-[![EDAintro](https://raw.githubusercontent.com/BhaktiPrabhakar/EDA/master/images/edaintro.jpg "EDAintro")](https://raw.githubusercontent.com/BhaktiPrabhakar/EDA/master/images/edaintro.jpg "EDAintro")
+[![EDAintro](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/EDA/images/edaintro.jpg "EDAintro")](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/EDA/images/edaintro.jpg "EDAintro")
 
 __What is EDA ?__<br>
 EDA is a phenomenon under data analysis used for gaining a better understanding of data aspects like main features of data, variables and relationships that hold between them, identifying which variables are important for our problem<br>
@@ -44,10 +44,10 @@ Exploratory Data Analysis or (EDA) is understanding the data sets by summarizing
 
 Lifecycle of a Data Analysis projects consists of:<br> 
 
-[![EDAlife](https://raw.githubusercontent.com/BhaktiPrabhakar/EDA/master/images/eda1.png "EDAlife")](https://raw.githubusercontent.com/BhaktiPrabhakar/EDA/master/images/eda1.png "EDAlife")<br>
+[![EDAlife](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/EDA/images/eda1.png "EDAlife")](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/EDA/images/eda1.png "EDAlife")<br>
 
 __EDA Methods__ involve:<br>
-[![EDAmethods](https://raw.githubusercontent.com/BhaktiPrabhakar/EDA/master/images/edamethods.png "EDAmethods")](https://raw.githubusercontent.com/BhaktiPrabhakar/EDA/master/images/edamethods.png "EDAmethods")
+[![EDAmethods](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/EDA/images/edamethods.png "EDAmethods")](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/EDA/images/edamethods.png "EDAmethods")
 
 ## Repository Overview
 This repository is about implementation of EDA on the loaded dataset and applying Python fundamentals to it.
@@ -66,7 +66,7 @@ Steps in Data Exploration and Preprocessing:
 -Dimensionality Reduction<br>
 
 # MachineLearningBasics
-[![ml1](https://raw.githubusercontent.com/BhaktiPrabhakar/MLBasicsProject/master/images/ml1.jpeg "ml1")](https://raw.githubusercontent.com/BhaktiPrabhakar/MLBasicsProject/master/images/ml1.jpeg "ml1")
+[![ml1](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/ML_Basic/images/ml1.jpeg "ml1")](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/ML_Basic/images/ml1.jpeg "ml1")
 
 
 __What is Machine Learning ?__<br>
@@ -76,7 +76,7 @@ It focuses on the ___development of computer programs___ that can access data an
 
 Machine Learning consists of the following steps:<br> 
 
-[![mlbeg](https://raw.githubusercontent.com/BhaktiPrabhakar/MLBasicsProject/master/images/mlbeg.jpeg "mlbeg")](https://raw.githubusercontent.com/BhaktiPrabhakar/MLBasicsProject/master/images/mlbeg.jpeg "mlbeg")
+[![mlbeg](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/ML_Basic/images/mlbeg.jpeg "mlbeg")](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/ML_Basic/images/mlbeg.jpeg "mlbeg")
 
 ## Repository Overview
 This repository is about different Machine Learning basic algorithm approaches as per the industry practices.
@@ -90,7 +90,7 @@ Various steps included in the project are:
 - Prediction<br>
 
 # TableauBasics
-[![tab1](https://raw.githubusercontent.com/BhaktiPrabhakar/TableauProject/master/images/tab1.png "tab1")](https://raw.githubusercontent.com/BhaktiPrabhakar/TableauProject/master/images/tab1.png "tab1")
+[![tab1](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/Tableau_Basic/images/tab1.png "tab1")](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/Tableau_Basic/images/tab1.png "tab1")
 
 
 __What is Tableau ?__<br>
@@ -101,7 +101,7 @@ Tableau is a powerful and fastest growing data visualization tool used in the __
 
 Tableau tool can process using the following steps:<br> 
 
-[![tabpro](https://raw.githubusercontent.com/BhaktiPrabhakar/TableauProject/master/images/tabpro.jpg "tabpro")](https://raw.githubusercontent.com/BhaktiPrabhakar/TableauProject/master/images/tabpro.jpg "tabpro")
+[![tabpro](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/Tableau_Basic/images/tabpro.jpg "tabpro")](https://raw.githubusercontent.com/BhaktiPrabhakar/Python-ML-AI/master/Tableau_Basic/images/tabpro.jpg "tabpro")
 ## Repository Overview
 This repository is about the use of Tableau tool, creating stories and dashboards.
 
